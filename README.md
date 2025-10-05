@@ -19,10 +19,8 @@ The program listens to keyboard input and saves each key press to `keylog.json`.
 ## How to Run
 1. Install dependencies:
 pip install pynput pystray Pillow
-
 2. Run the program:
 python keylogger.py
-
 3. Exit via the tray icon menu.
 
 I did not create this project for any malicious purposes. It’s not a deeply thought-out project, just something I wrote for fun and learning. Do not run it on other people’s devices without permission.
